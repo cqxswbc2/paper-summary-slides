@@ -1,0 +1,23 @@
+# License
+
+本仓库包含几类用途不同的内容。
+
+## 代码
+
+`scripts/` 中的脚本以 MIT License 发布。
+
+Copyright (c) 2026 cqxswbc2
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the code and associated documentation files in `scripts/` (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Skill 说明与模板
+
+`SKILL.md`、`agents/` 和 `references/` 中的说明、问题框架、规范与模板，可在注明出处的前提下用于个人学习和研究，并可修改。
+
+## 示例中的论文笔记
+
+`assets/examples/` 中的内容是基于第三方学术论文的阅读笔记和转述，原论文版权归作者和出版社所有。本许可不授予再分发任何第三方受版权保护材料的权利。

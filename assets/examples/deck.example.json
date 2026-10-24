@@ -1,0 +1,8 @@
+{
+  "title": "Example reading summaries",
+  "papersDir": "papers",
+  "sections": [
+    { "title": "Theory paper example", "ids": ["nistor2025"] },
+    { "title": "Empirical paper example", "ids": ["wies2023"] }
+  ]
+}

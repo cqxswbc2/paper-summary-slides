@@ -1,0 +1,14 @@
+{
+  "name": "paper-summary-slides",
+  "version": "1.0.0",
+  "private": true,
+  "description": "One-page reading-summary slides for academic papers, one slide per paper.",
+  "scripts": {
+    "check": "node scripts/check_paper.js",
+    "build": "node scripts/build_deck.js"
+  },
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  },
+  "license": "MIT"
+}
